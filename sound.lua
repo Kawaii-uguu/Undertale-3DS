@@ -1,4 +1,4 @@
-function loadAudio
+function loadAudio()
 
 
   exitSound = love.audio.newSource('audio/beep.wav')
